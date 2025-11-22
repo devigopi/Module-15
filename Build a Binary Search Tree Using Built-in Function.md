@@ -54,10 +54,10 @@ print("\nIs this a Binary Search Tree? ",l.is_bst)
 ```
 
 ## OUTPUT
-```
+
 <img width="1336" height="452" alt="image" src="https://github.com/user-attachments/assets/d350c440-f00c-4fc0-bf71-db5d13b0c948" />
 
-```
+
 
 ## RESULT
   Thus the program to build a binary search tree using a built-in function is successfully verified.
